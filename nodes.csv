@@ -1,9 +1,9 @@
 Node,Cat,picPath
 John Pandolfi,Head,John.png
-Historical ecology,Subject,NA
-Paleoecology,Subject,NA
-Global change biology,Subject,NA
-Fundamental ecology,Subject,NA
+Historical ecology,Subject,history.png
+Paleoecology,Subject,paleo.png
+Global change biology,Subject,gcb.png
+Fundamental ecology,Subject,icrs.png
 Timothy Staples,LabPD,Tim.png
 Gal Eyal,LabPD,Gal.png
 Sun Wook Kim,LabPD,Sun.png
@@ -14,3 +14,19 @@ Karin Zweip,LabPhD,Karin.png
 Nataly Gutierrez Isaza,LabPhD,Nataly.png
 Emer Cunningham,LabPhD,Emer.png
 Ellen Hall,Honours,Ellen.png
+Hannah Markham,LabPhD,Hannah.png
+George Roff,LabAlum,George.png
+Brigitte Sommer,LabAlum,Brigitte.png
+Ruth Thurston,LabAlum,Ruth.png
+Maria Beger,LabAlum,Maria.png
+Sarah Buckley,LabAlum,Sarah.png
+Tara Clarke,LabAlum,Tara.png
+K-le Gomez,LabAlum,Kle.png
+Carrie Sims,LabAlum,Carrie.png
+Coral larvae & Symbiodinium,Project,larvae.png
+Ecological novelty,Project,novel.png
+Reef sediment cores,Project,core.png
+Ancient DNA,Project,dna.png
+Fishery reconstruction,Project,fishing.png
+Reef reconstruction,Project,reefhistory.png
+Lat range shifts,Project,highlat.png
